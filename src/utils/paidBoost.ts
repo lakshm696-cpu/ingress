@@ -1,4 +1,4 @@
-import { normalizeHandle } from './ingressMath';
+import { normalizeHandle } from './ingressMath.ts';
 
 export type PaidBoostTierId = 'starter' | 'growth' | 'scale';
 
